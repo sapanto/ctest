@@ -4,6 +4,8 @@
  * Modificato da Windows con NetBeans 22:33
  * Git->Clone, poi crea nuovo progetto da existing source ed indicare il clone precedentemente creato.
  * 
+ * Questa riga deve dare confilitto
+ * 
  * This makes our life easier when dealing with paths. Everything is relative
  * to the application root now.
  */
