@@ -6,6 +6,8 @@
  * 
  * Questa riga deve dare confilitto
  * 
+ * Questa modifica andra in conflittosu Zend Studio
+ * 
  * This makes our life easier when dealing with paths. Everything is relative
  * to the application root now.
  */
