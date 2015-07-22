@@ -1,7 +1,7 @@
 <?php
 /**
- *  GITHUB token 09ed18fbf03b460aa367b6d77c16c24b7cf20f99
- *  
+ * Modifica TXY 22:11
+ * 
  * This makes our life easier when dealing with paths. Everything is relative
  * to the application root now.
  */
